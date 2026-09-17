@@ -10,5 +10,5 @@ code is super duper simple!
 # 02
 bevind zich hier
 
-[opdracht 2](https://github.com/beebopyomi/M5PROG/tree/main/Assets/)
+[opdracht 2](https://github.com/beebopyomi/M5PROG/tree/main)
 
